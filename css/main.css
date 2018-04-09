@@ -126,7 +126,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 .section-header .section-subtitle {
   margin-top: 15px;
   color: #333;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 400;
 }
 
@@ -405,7 +405,7 @@ button:focus {
    ========================================================================== */
 #hero-area {
   background: url(../img/hero-area.jpg) fixed no-repeat;
-  background-size: cover;
+  background-size: contain;
   color: #fff;
   overflow: hidden;
   position: relative;
@@ -722,6 +722,11 @@ button:focus {
   bottom: -120px;
 }
 
+.img-features {
+  width: 50px; height: 50px;
+  background: url('/img/art.png') -10px -10px;
+}
+
 /* ==========================================================================
   7. Video promo Style
    ========================================================================== */
@@ -734,6 +739,7 @@ button:focus {
 
 .video-promo .video-promo-content {
   color: #fff;
+  background: url("/img/videobg.jpg");
 }
 
 .video-promo .video-promo-content h2 {
@@ -779,7 +785,7 @@ button:focus {
 /* ==========================================================================
   8. Portfolio Section
    ========================================================================== */
-#portfolios .mix {
+#portfolios .basis {
   padding: 10px;
 }
 
@@ -787,7 +793,7 @@ button:focus {
   margin: 0px;
 }
 
-#portfolio .mix {
+#portfolio .basis {
   display: none;
 }
 
@@ -936,7 +942,7 @@ button:focus {
  10. Counter Section Style
  ========================================================================== */
 .counters {
-  background: url(../img/counter.jpg) fixed;
+  background: url(../img/IMG_3487.jpg) fixed;
   position: relative;
 }
 
@@ -970,7 +976,7 @@ button:focus {
 11. Testimonial Section Style
  ========================================================================== */
 #testimonial {
-  background: url(../img/testimonial-bg.jpg) fixed no-repeat;
+  background: url(../img/testimonial/testimonial-bg.jpg) fixed no-repeat;
   background-size: cover;
   color: #fff;
   overflow: hidden;
