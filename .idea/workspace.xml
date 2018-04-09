@@ -17,13 +17,23 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="535">
+              <caret line="539" column="31" lean-forward="true" selection-start-line="539" selection-start-column="31" selection-end-line="539" selection-end-column="31" />
+=======
             <state relative-caret-position="243">
               <caret line="253" column="80" lean-forward="false" selection-start-line="253" selection-start-column="80" selection-end-line="253" selection-end-column="80" />
               <folding />
+>>>>>>> 880a5f860aa4a03a9d11ff5c909fdccda128a551
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+      <file leaf-file-name="eric.JPG" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/features/eric.JPG">
+          <provider selected="true" editor-type-id="images" />
+=======
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -42,6 +52,7 @@
               <folding />
             </state>
           </provider>
+>>>>>>> 880a5f860aa4a03a9d11ff5c909fdccda128a551
         </entry>
       </file>
       <file leaf-file-name="contact-form-script.js" pinned="false" current-in-tab="false">
@@ -263,15 +274,30 @@
       <workItem from="1520271313628" duration="997000" />
       <workItem from="1520795891093" duration="105000" />
       <workItem from="1522069867944" duration="5030000" />
+<<<<<<< HEAD
+      <workItem from="1522085178321" duration="17201000" />
+=======
       <workItem from="1522085178321" duration="14507000" />
       <workItem from="1522266134252" duration="2285000" />
+<<<<<<< HEAD
       <workItem from="1522269331892" duration="8000" />
       <workItem from="1523271577628" duration="9000" />
+=======
+>>>>>>> 880a5f860aa4a03a9d11ff5c909fdccda128a551
+>>>>>>> 9021b8114f3f6e8fcd96a21d3d616f857759e494
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="37546000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="37938000" />
+=======
+    <option name="totallyTimeSpent" value="37529000" />
+>>>>>>> 880a5f860aa4a03a9d11ff5c909fdccda128a551
+>>>>>>> 9021b8114f3f6e8fcd96a21d3d616f857759e494
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1687" height="1447" extended-state="0" />
@@ -631,6 +657,69 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/css/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/blog/img1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/portfolio/img1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/slider/bg-1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/slider/bg-2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/slider/bg-3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Pictures/yurt kerstmarkt.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/testimonial-bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/map-marker.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/logo.psd">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/Logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/hero-area.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/dummy.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/counter.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/testimonial/customer1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/testimonial/customer2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bg1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/testimonial/yurt kerstmarkt.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/features/feature.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/videobg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+=======
+>>>>>>> 880a5f860aa4a03a9d11ff5c909fdccda128a551
     <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -725,11 +814,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/features/eric.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="535">
+          <caret line="539" column="31" lean-forward="true" selection-start-line="539" selection-start-column="31" selection-end-line="539" selection-end-column="31" />
+=======
         <state relative-caret-position="243">
           <caret line="253" column="80" lean-forward="false" selection-start-line="253" selection-start-column="80" selection-end-line="253" selection-end-column="80" />
           <folding />
+>>>>>>> 880a5f860aa4a03a9d11ff5c909fdccda128a551
         </state>
       </provider>
     </entry>
