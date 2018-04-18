@@ -558,6 +558,10 @@ button:focus {
   display: none;
 }
 
+.mobile-lang{
+  display: none;
+}
+
 .slicknav_menu {
   display: none;
 }
