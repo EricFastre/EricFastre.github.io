@@ -47,6 +47,10 @@ body {
   overflow-x: hidden;
 }
 
+.LanguageMenu{
+  display: block;
+}
+
 html {
   overflow-x: hidden;
 }
